@@ -14,8 +14,8 @@ const Navbar = () => {
 
       {/* Button */}
       <div className="mt-0 sm:mt-0">
-        <a href="https://github.com/Tejas-00" target="_blank" rel="noopener noreferrer">
-          <button className="bg-slate-100 text-black text-[16px] font-bold flex items-center gap-2 px-3 py-1 rounded-full hover:bg-white transition duration-200">
+        <a href="https://github.com/Tejas-00/PassHub-full-stack" target="_blank" rel="noopener noreferrer">
+          <button className="bg-slate-100 text-black text-[16px] font-bold flex items-center gap-2 px-3 py-1 rounded-full cursor-pointer hover:bg-white transition duration-200">
             <img className="w-6" src={githubIcon} alt="GitHub" />
             <h2 className="leading-none pb-1 sm:pb-1">Contribute</h2>
           </button>
