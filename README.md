@@ -1,5 +1,3 @@
-#PassHub
-
 ## Project Overview
 
 **PassHub** is a simple and secure password manager built with the MERN stack (MongoDB, Express, React, Node.js) and styled using Tailwind CSS. It allows users to store, manage, and organize their credentials (website, username, password) in one place with a clean, modern UI.
@@ -110,7 +108,8 @@ npm run dev
 
 ## Screenshots
 
-*(Add screenshots of the UI here if desired)*
+![image](https://github.com/user-attachments/assets/eb44fc8a-0b5f-430e-a5d1-49ee63341cd5)
+![image](https://github.com/user-attachments/assets/481a6d23-295d-434b-827c-ccba3e21f22b)
 
 ---
 
